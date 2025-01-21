@@ -1,9 +1,9 @@
 ---
 name: Issue作成
-about: ""
-title: ""
-labels: ""
-assignees: ""
+about: aa
+title: "aa"
+labels: "aa"
+assignees: "aa"
 ---
 
 <!-- スプレッドシートに記録するかどうか（ y , n ）: [y] -->
