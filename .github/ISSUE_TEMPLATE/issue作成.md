@@ -1,8 +1,9 @@
 ---
-name: "issue作成"
-title: ""
-labels: ""
-assignees: ""
+name: Tracking issue
+about: Use this template for tracking new features.
+title: "[DATE]: [FEATURE NAME]"
+labels: tracking issue, needs triage
+assignees: octocat
 ---
 
 <!-- スプレッドシートに記録するかどうか（ y , n ）: [y] -->
