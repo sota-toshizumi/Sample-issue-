@@ -1,6 +1,6 @@
 ---
 name: タスク作成
-about: ""
+about: aa
 title: ""
 labels: ""
 assignees: ""
