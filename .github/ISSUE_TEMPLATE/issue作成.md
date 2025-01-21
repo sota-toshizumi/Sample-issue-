@@ -1,6 +1,6 @@
 ---
 name: Issue 作成
-about: Use this template for tracking new features.
+about: 
 title: ""
 labels: 
 assignees: 
