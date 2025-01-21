@@ -1,6 +1,6 @@
 ---
 name: Issue 作成
-about: 
+about: aaa
 title: ""
 labels: 
 assignees: 
