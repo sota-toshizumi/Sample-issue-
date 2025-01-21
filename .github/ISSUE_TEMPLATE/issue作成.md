@@ -1,9 +1,9 @@
 ---
-name: Issue作成
-about: aa
-title: "aa"
-labels: "aa"
-assignees: "aa"
+name: Issue 作成
+about: Use this template for tracking new features.
+title: ""
+labels: 
+assignees: 
 ---
 
 <!-- スプレッドシートに記録するかどうか（ y , n ）: [y] -->
